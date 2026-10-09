@@ -32,12 +32,15 @@ httml
 
 | tabela | veja |
 |--------|------|
-| aqui   | escevese |
+| aqui   | esceve-se |
+
+---
 
 - [X] 
-- [] 
+- [ ] 
 - [X] 
-- []
+- [ ]
+
 
 ---
 
@@ -50,4 +53,4 @@ httml
 
 That is so funny! :joy:
 
-~~ texto riscado ~~
+~~texto riscado~~
